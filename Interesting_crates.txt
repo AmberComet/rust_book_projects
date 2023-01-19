@@ -1,0 +1,24 @@
+CMD apps
+https://crates.io/crates/crossterm
+
+rand
+https://crates.io/crates/rand
+
+question
+https://crates.io/crates/question
+
+ferris says
+https://crates.io/crates/ferris-says
+
+inquire
+https://crates.io/crates/inquire
+
+console
+https://crates.io/crates/console
+
+indicatif
+https://crates.io/crates/indicatif
+
+dialouger
+https://crates.io/crates/dialoguer
+
